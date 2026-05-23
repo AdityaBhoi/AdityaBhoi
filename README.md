@@ -1,18 +1,185 @@
-# 💫 About Me:
-Hi, I'm Aditya Bhoi 👋  <br>I'm a Computer Science Engineering (AI) student at Parul University with a strong interest in Data Analytics, Business Intelligence, and Data Visualization.<br><br>I enjoy transforming raw data into meaningful insights using tools like Power BI, SQL, Python, and Excel. I have worked on real-world analytics projects including sales dashboards and customer churn analysis, where I performed data cleaning, exploratory data analysis, KPI tracking, and interactive dashboard creation.<br><br>💡 What I Do:<br>- Build interactive Power BI dashboards<br>- Analyze datasets using SQL & Python<br>- Perform Data Cleaning & EDA<br>- Create business insights from raw data<br>- Work with data visualization and reporting<br><br>🛠️ Tech Stack:<br>Python • SQL • Power BI • Excel • Pandas • NumPy • Matplotlib • MySQL<br><br>📚 Currently Learning:<br>Advanced Data Analytics, Machine Learning, and Business Intelligence<br><br>🎯 Goal:<br>To become a skilled Data Analyst and work on impactful data-driven solutions.
+<h1 align="center">Hi 👋, I'm Aditya Bhoi</h1>
+<h3 align="center">Aspiring Data Analyst | Power BI Developer | AI & Data Analytics Enthusiast</h3>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aditya_bhoi03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adityabhoi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@adityabhoi03) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=AdityaBhoi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=AdityaBhoi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AdityaBhoi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Data+Analytics+Enthusiast;Power+BI+Dashboard+Developer;SQL+%7C+Python+%7C+Excel;Turning+Data+Into+Insights;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=AdityaBhoi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+🎓 I'm currently pursuing **B.Tech in Computer Science Engineering (Artificial Intelligence)** at **Parul University, Gujarat**.
+
+📊 I’m passionate about **Data Analytics, Business Intelligence, Artificial Intelligence, and Data Visualization**. I enjoy solving business problems using data and transforming raw datasets into meaningful insights through dashboards, reports, and analytics solutions.
+
+💡 I have hands-on experience working with:
+- Power BI dashboards
+- SQL data analysis
+- Python-based analytics projects
+- Data Cleaning & Exploratory Data Analysis (EDA)
+- KPI reporting & visualization
+- Business insights generation
+
+🚀 I love building real-world projects that help improve decision-making using data-driven strategies.
+
+---
+
+# 🚀 Current Focus
+
+- 📈 Building advanced Power BI dashboards
+- 🧠 Learning Machine Learning & Predictive Analytics
+- 📊 Improving SQL optimization skills
+- 🐍 Exploring Python for Data Science
+- ☁️ Learning Cloud & AWS fundamentals
+- 🔍 Working on real-world analytics projects
+
+---
+
+# 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+### 📊 Data Analytics & Visualization
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### 🗄️ Database & Tools
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+---
+
+# 📂 Featured Projects
+
+## 📊 E-Commerce Sales Dashboard
+🔹 Built an interactive Power BI dashboard to analyze:
+- Sales performance
+- Profit trends
+- Customer insights
+- Regional performance
+- Payment modes
+
+🔹 Used dynamic KPIs, slicers, filters, and visual storytelling for business insights.
+
+---
+
+## 🍕 Pizza Sales SQL Analysis
+🔹 Performed SQL-based sales analysis using:
+- Joins
+- Aggregate Functions
+- Window Functions
+- KPI calculations
+
+🔹 Extracted valuable business insights from sales data.
+
+---
+
+## 📉 Customer Churn Analysis
+🔹 Analyzed telecom customer churn data using Python.
+
+🔹 Performed:
+- Data Cleaning
+- EDA
+- Feature Engineering
+- Data Visualization
+
+🔹 Identified customer behavior patterns and churn trends.
+
+---
+
+## 🌍 Green Earth AI Project
+🔹 AI-powered climate intelligence & forecasting system.
+
+🔹 Focused on:
+- Climate prediction
+- Environmental analytics
+- Forecast visualization
+- Deep learning concepts
+
+---
+
+# 📚 Certifications
+
+🏅 Data Analytics Certification – Coursera  
+🏅 Power BI for Beginners – Microsoft Learn  
+🏅 Python for Data Science – Udemy  
+🏅 SQL for Data Analysis – HackerRank  
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/adityabhoi" target="blank">
+<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/aditya_bhoi03" target="blank">
+<img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://youtube.com/@adityabhoi03" target="blank">
+<img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AdityaBhoi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaBhoi&theme=tokyonight&hide_border=false" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaBhoi&theme=tokyonight&hide_border=false&layout=compact"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=AdityaBhoi&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+[![Aditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AdityaBhoi&theme=tokyo-night)](https://github.com/AdityaBhoi)
+
+---
+
+# ✍️ Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+# 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=AdityaBhoi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AdityaBhoi&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+---
+
+<h3 align="center">✨ Turning Data Into Insights & Ideas Into Reality ✨</h3>
