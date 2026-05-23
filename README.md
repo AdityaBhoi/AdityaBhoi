@@ -112,6 +112,7 @@
 # 📚 Certifications
 
 🏅 Data Analytics with Python – IBM
+
 🏅 Power BI for Beginners – Microsoft Learn  
 
 ---
