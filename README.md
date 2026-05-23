@@ -111,10 +111,8 @@
 
 # 📚 Certifications
 
-🏅 Data Analytics Certification – Coursera  
+🏅 Data Analytics with Python – IBM
 🏅 Power BI for Beginners – Microsoft Learn  
-🏅 Python for Data Science – Udemy  
-🏅 SQL for Data Analysis – HackerRank  
 
 ---
 
