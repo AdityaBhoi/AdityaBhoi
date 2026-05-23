@@ -150,20 +150,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AdityaBhoi&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-[![Aditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AdityaBhoi&theme=tokyo-night)](https://github.com/AdityaBhoi)
-
----
-
 # ✍️ Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
